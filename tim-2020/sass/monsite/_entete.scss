@@ -1,3 +1,17 @@
+.site-branding {
 .site-title {
     font-size: 4em;
+    margin: 0;
+    padding: 0;
+    font-family: arial;
+    a {
+        color: $color__site-title;
+    }
+}
+
+.site-description {
+    margin: 0;
+    padding: 0;
+    font-size: 2em;
+    font-family: arial;
 }
